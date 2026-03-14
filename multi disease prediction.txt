@@ -1,0 +1,14 @@
+# Multi Disease Prediction AI
+
+This project predicts multiple diseases using machine learning.
+
+Diseases included:
+- Heart Disease
+- Diabetes
+- Breast Cancer
+
+Technologies used:
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
